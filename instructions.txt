@@ -1,0 +1,22 @@
+Welcome to Boggle!
+
+The aim of the game is to find as many words as possible until the time runs out.
+When a letter is selected a word is built at the bottom of the screen. Press submit once you have chosen your word.
+If the word is correct, you will receive points and the word will be added to the 'Guessed Words' list.
+
+A valid word is built from letters that are next to one another. A letter is considered next to another if it is
+in one of 8 possible directions; up, down, left, right and the 4 diagonals. Any given letter may be used only once
+when building a word. Any word may only be spelt once, even if it appears in several valid combinations. Valid words
+must have more than 3 letters and no more than 16 letters.
+
+The 'message area' is an informative display area. Pay attention to the messages given.
+
+Points are awarded for each correct choice. A corrected word is awarded with a number of points equal to the word's
+length squared. For example, a word with the length of 5 will be awarded 25 points.
+
+If you have run out of words, you may press the hint button. When this button is clicked. A word will appear in the
+'message box'. Each hint deducts 30 points. Note that a hint is only worthwhile if the length of the word given is
+ greater than 5 letters. A word that already has been found will not be given as a hint.
+
+Enjoy!
+The Maker.
